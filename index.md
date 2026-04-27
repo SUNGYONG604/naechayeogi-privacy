@@ -41,7 +41,7 @@
 13세 미만 아동의 개인정보를 의도적으로 수집하지 않습니다.
 
 ### 연락처
-앱 관련 문의: **s20217y@gmail.com**
+앱 관련 문의: **s20217y+naechayeogi@gmail.com**
 
 ---
 
@@ -76,4 +76,4 @@ This app does NOT use analytics, advertising SDKs, user accounts, or any cloud s
 This app does not knowingly collect personal information from children under 13.
 
 ### Contact
-Questions about this app: **s20217y@gmail.com**
+Questions about this app: **s20217y+naechayeogi@gmail.com **
